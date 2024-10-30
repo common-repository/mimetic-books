@@ -1,0 +1,176 @@
+
+/* #poststuff .inside */
+#book-post-settings div.inside {
+	background-color: #f1f1f1;
+	margin: 0;
+	padding: 0 0 8px;
+}
+
+#book-post-publish div.inside {
+	background-color: #f1f1f1;
+	margin: 0;
+	padding: 0 0 8px;
+}
+
+/* #minor-publishing */
+#mb-settings {
+}
+
+#mb-misc-settings {
+	padding: 6px 0 0;
+}
+
+#mb-major-settings {
+	border-top-color: #fff;
+
+}
+
+.mb-settings-section-break {
+	width: 100%;
+	border-width: 1px 0;
+	border-style: solid;
+	border-top-color: #fff;
+	border-bottom-color: #dfdfdf;
+	background-color: #b2f19c;
+	background-color: #e9e3dc;
+}
+
+/* #misc-publishing-actions */
+#mb-minor-settings {
+	padding: 6px 0 0;
+	padding-bottom: 6px;
+}
+
+/* misc-pub-section */
+.mb-settings-section {
+	padding: 6px 10px 8px;
+	border-width: 1px 0;
+	border-style: solid;
+	padding: 6px 10px 8px;
+	border-top-color: #fff;
+	border-bottom-color: #dfdfdf
+}
+
+.mb-settings-section.no-border {
+	border-width: 0px;
+}
+
+
+.mb-settings-section:first-child {
+	border-top-width: 0px;
+}
+
+.mb-settings-section-last {
+	border-bottom-width: 0;
+}
+
+.mb-update-button {
+	float: right;
+}
+
+.poster_image {
+	border: 1px solid black;
+	width: 100%;
+}
+
+.poster_url {
+	
+}
+
+.poster_id {
+	
+}
+
+.poster_button {
+	
+}
+
+.publish_book_button {
+	
+}
+
+.publishing_progress_message {
+	color: #ff2600;
+	font-variant: normal;
+}
+
+div .theme_page_preview_box {
+	
+}
+
+div .theme_page_preview {
+	width: 250px;
+	height: 200px;
+	background: url(img/page-preview-bkgd-small.png) no-repeat center center;
+}
+
+div .portrait.theme_page_preview  {
+	width: 200px;
+	height: 250px;
+	background: url(img/page-preview-bkgd-small-portrait.png) no-repeat center center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.theme_page_preview img {
+	width: 200px;
+	height: 150px;
+	margin: 23px 24px;
+	background-color: black;
+	border: 2px solid black;
+}
+
+.portrait.theme_page_preview img {
+	width: 150px;
+	height: 200px;
+	margin: 24px 23px;
+	background-color: black;
+	border: 2px solid black;
+}
+
+/*
+Selectable: 
+*/
+
+#feedback {
+	font-size: 1.4em;
+}
+
+ol.selectable {
+}
+
+.selectable .ui-selecting {
+	background: #FECA40;
+}
+
+.selectable .ui-selected {
+	background: #F39814;
+	color: white;
+	opacity: 1.0;
+}
+
+.selectable {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 804px;
+}
+
+.selectable li {
+	margin: 3px;
+	padding: 2px;
+	float: left;
+	width: 256px;
+	height: 192px;
+	font-size: 1em;
+	text-align: center;
+	border: 1px solid #000;	
+	opacity: 0.5;
+}
+
+.selectable li img {
+	max-width: 256px;
+	max-height: 192px;
+	margin-right: auto;
+	margin-left: auto;
+}

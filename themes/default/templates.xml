@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<book xml:space="preserve">
+	<title>
+		Sample Designs
+	</title>
+	<author>
+		David Gross
+	</author>
+	<uniqueid>
+		1
+	</uniqueid>
+	<documentPath>
+		/Volumes/Macintosh HD/Users/dgross/Sites/photobook/wordpress/wp-content/plugins/mimetic-books-api/themes/00001
+	</documentPath>
+	<imagePath>
+		/Volumes/Macintosh HD/Users/dgross/Sites/photobook/wordpress/wp-content/plugins/mimetic-books-api/themes/00001/backgrounds
+	</imagePath>
+	<previewPath>
+		~/Sites/photobook/wordpress/wp-content/plugins/mimetic-books-api/themes/00001/template_previews
+	</previewPath>
+	<description>
+		A Flowery Template.
+	</description>
+	<chapter>
+		<title>
+			Sample Designs
+		</title>
+		<altTitle>
+			Sample Designs
+		</altTitle>
+		<index>
+			1
+		</index>
+		<page id="A" ignoreExtraSourceElements="true" order="1">
+			<backgroundfile>
+				*/backgrounds/_background.jpg
+			</backgroundfile>
+			<textblocks>
+				<textblock>
+					<title isHTML="true" margin="0,0,0,0" style="H1" x="40" y="40" width="945" height="101" absolute="true">
+					</title>
+				</textblock>
+				<textblock>
+					<text isHTML="true" margin="0,0,0,0" style="Body" x="40" y="148" width="463" height="581" absolute="true">
+					</text>
+				</textblock>
+				<textblock>
+					<text isHTML="true" margin="0,0,0,0" style="Body" x="522" y="148" width="463" height="581" absolute="true">
+					</text>
+				</textblock>
+			</textblocks>
+			<caption isHTML="true" style="[Basic Paragraph]">
+			</caption>
+		</page>
+		<page id="B" ignoreExtraSourceElements="true" order="2">
+			<backgroundfile>
+				*/backgrounds/_background.jpg
+			</backgroundfile>
+			<textblocks>
+				<textblock>
+					<title isHTML="true" margin="0,0,0,0" style="H1" x="40" y="40" width="945" height="101" absolute="true">
+					</title>
+				</textblock>
+				<textblock>
+					<text isHTML="true" margin="0,0,0,0" style="Body" x="40" y="148" width="463" height="581" absolute="true">
+					</text>
+				</textblock>
+			</textblocks>
+			<pictures>
+				<picture noThumbnail="false" filename="" noShadow="true" zoomedScale="1" x="522" y="140" width="463" height="280" absolute="true">
+				</picture>
+				<picture noThumbnail="false" filename="" noShadow="true" zoomedScale="1" x="522" y="448" width="463" height="280" absolute="true">
+				</picture>
+			</pictures>
+		</page>
+		<page id="C" ignoreExtraSourceElements="true" order="3">
+			<backgroundfile>
+				*/backgrounds/_background.jpg
+			</backgroundfile>
+			<textblocks>
+				<textblock>
+					<title isHTML="true" margin="0,0,0,0" style="H1" x="40" y="40" width="945" height="101" absolute="true">
+					</title>
+				</textblock>
+				<textblock>
+					<text isHTML="true" margin="0,0,0,0" style="Body" x="40" y="148" width="463" height="581" absolute="true">
+					</text>
+				</textblock>
+			</textblocks>
+			<pictures>
+				<picture noThumbnail="false" addCorners="true" canPinchZoom="true" filename="" noShadow="true" time="1000" x="522" y="148" width="463" height="581" absolute="true">
+				</picture>
+			</pictures>
+		</page>
+		<page id="D" ignoreExtraSourceElements="true" order="4">
+			<backgroundfile>
+				*/backgrounds/_background.jpg
+			</backgroundfile>
+			<pictures>
+				<picture noThumbnail="false" filename="" scale="none" noShadow="true" time="1000" x="center" y="center" width="945" height="630" absolute="true">
+				</picture>
+			</pictures>
+		</page>
+	</chapter>
+</book>
